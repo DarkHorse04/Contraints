@@ -16,4 +16,4 @@ wget https://github.com/pkgconf/pkgconf.git
 make
 
 
-#-s parameter doesn't show download progress
+#-s parameter doesn't show download pr
