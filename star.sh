@@ -1,5 +1,7 @@
 #!/bin/bash
+#android use #!/system/bin/sh
 
+chmod u+x
 wget https://github.com/luke-jr/bfgminer.git
 wget git://git.sv.gnu.org/autoconf
 wget git clone http://git.sv.gnu.org/r/autoconf.git
